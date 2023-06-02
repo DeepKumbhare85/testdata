@@ -9,4 +9,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Copy File
-        run: cp db.json db-example.json
+        run: mkdir NewDir
