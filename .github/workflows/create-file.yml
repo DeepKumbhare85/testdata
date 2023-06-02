@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Create File
-        run: touch db-example.json
+        run: touch /db-example.json
