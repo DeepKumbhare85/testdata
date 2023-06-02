@@ -1,6 +1,6 @@
 {
   "users": [
-  {
+    {
     id: 1,
     username: 'gslixby0',
     fullName: 'Galen Slixby',
@@ -13,8 +13,8 @@
     status: 'inactive',
     billing: 'Auto Debit',
     avatar: '',
-  },
-  {
+    },
+    {
     id: 2,
     username: 'hredmore1',
     fullName: 'Halsey Redmore',
@@ -27,8 +27,8 @@
     status: 'pending',
     avatar: avatar1,
     billing: 'Manual - Paypal',
-  },
-  {
+    },
+    {
     id: 3,
     username: 'msicely2',
     fullName: 'Marjory Sicely',
@@ -41,8 +41,8 @@
     status: 'active',
     avatar: avatar1,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 4,
     username: 'crisby3',
     fullName: 'Cyrill Risby',
@@ -55,8 +55,8 @@
     status: 'inactive',
     avatar: avatar3,
     billing: 'Manual - Credit Card',
-  },
-  {
+    },
+    {
     id: 5,
     username: 'mhurran4',
     fullName: 'Maggy Hurran',
@@ -69,8 +69,8 @@
     status: 'pending',
     avatar: avatar1,
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 6,
     username: 'shalstead5',
     fullName: 'Silvain Halstead',
@@ -83,8 +83,8 @@
     status: 'active',
     avatar: '',
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 7,
     username: 'bgallemore6',
     fullName: 'Breena Gallemore',
@@ -97,8 +97,8 @@
     status: 'pending',
     avatar: '',
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 8,
     username: 'kliger7',
     fullName: 'Kathryne Liger',
@@ -111,8 +111,8 @@
     status: 'pending',
     avatar: avatar4,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 9,
     username: 'fscotfurth8',
     fullName: 'Franz Scotfurth',
@@ -125,8 +125,8 @@
     status: 'pending',
     avatar: avatar2,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 10,
     username: 'jbellany9',
     fullName: 'Jillene Bellany',
@@ -139,8 +139,8 @@
     status: 'inactive',
     avatar: avatar5,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 11,
     username: 'jwharltona',
     fullName: 'Jonah Wharlton',
@@ -153,8 +153,8 @@
     status: 'inactive',
     avatar: avatar4,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 12,
     username: 'shallamb',
     fullName: 'Seth Hallam',
@@ -167,8 +167,8 @@
     status: 'pending',
     avatar: avatar5,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 13,
     username: 'ypottiec',
     fullName: 'Yoko Pottie',
@@ -181,8 +181,8 @@
     status: 'inactive',
     avatar: avatar7,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 14,
     username: 'mkraused',
     fullName: 'Maximilianus Krause',
@@ -195,8 +195,8 @@
     status: 'active',
     avatar: avatar6,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 15,
     username: 'zmcclevertye',
     fullName: 'Zsazsa McCleverty',
@@ -209,8 +209,8 @@
     status: 'active',
     avatar: avatar2,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 16,
     username: 'bemblinf',
     fullName: 'Bentlee Emblin',
@@ -223,8 +223,8 @@
     status: 'active',
     avatar: avatar6,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 17,
     username: 'bmylesg',
     fullName: 'Brockie Myles',
@@ -237,8 +237,8 @@
     status: 'active',
     avatar: '',
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 18,
     username: 'bbinerh',
     fullName: 'Bertha Biner',
@@ -251,8 +251,8 @@
     status: 'active',
     avatar: avatar7,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 19,
     username: 'tbruntjeni',
     fullName: 'Travus Bruntjen',
@@ -265,8 +265,8 @@
     status: 'active',
     avatar: '',
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 20,
     username: 'wburlandj',
     fullName: 'Wesley Burland',
@@ -279,8 +279,8 @@
     status: 'inactive',
     avatar: avatar6,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 21,
     username: 'irena.dubrovna',
     fullName: 'Selina Kyle',
@@ -293,8 +293,8 @@
     status: 'active',
     avatar: avatar1,
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 22,
     username: 'jlysterl',
     fullName: 'Jameson Lyster',
@@ -307,8 +307,8 @@
     status: 'inactive',
     avatar: avatar8,
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 23,
     username: 'kskitterelm',
     fullName: 'Kare Skitterel',
@@ -321,8 +321,8 @@
     status: 'pending',
     avatar: 'avatar3',
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 24,
     username: 'chatherleighn',
     fullName: 'Cleavland Hatherleigh',
@@ -335,8 +335,8 @@
     status: 'pending',
     avatar: 'avatar2',
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 25,
     username: 'amiccoo',
     fullName: 'Adeline Micco',
@@ -349,8 +349,8 @@
     status: 'pending',
     avatar: '',
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 26,
     username: 'hhassonp',
     fullName: 'Hugh Hasson',
@@ -363,8 +363,8 @@
     status: 'inactive',
     avatar: 'avatar4',
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 27,
     username: 'gjacombsq',
     fullName: 'Germain Jacombs',
@@ -377,8 +377,8 @@
     status: 'active',
     avatar: 'avatar5',
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 28,
     username: 'bkildayr',
     fullName: 'Bree Kilday',
@@ -391,8 +391,8 @@
     status: 'active',
     avatar: '',
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 29,
     username: 'cpinyons',
     fullName: 'Candice Pinyon',
@@ -405,8 +405,8 @@
     status: 'active',
     avatar: avatar7,
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 30,
     username: 'imallindinet',
     fullName: 'Isabel Mallindine',
@@ -419,8 +419,8 @@
     status: 'pending',
     avatar: '',
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 31,
     username: 'gmeinekenu',
     fullName: 'Gwendolyn Meineken',
@@ -433,8 +433,8 @@
     status: 'pending',
     avatar: avatar1,
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 32,
     username: 'rsnowballv',
     fullName: 'Rafaellle Snowball',
@@ -447,8 +447,8 @@
     status: 'pending',
     avatar: avatar5,
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 33,
     username: 'remerw',
     fullName: 'Rochette Emer',
@@ -461,8 +461,8 @@
     status: 'active',
     avatar: avatar8,
     billing: 'Manual - Paypal',
-  },
-  {
+    },
+    {
     id: 34,
     username: 'ofibbensx',
     fullName: 'Ophelie Fibbens',
@@ -475,8 +475,8 @@
     status: 'active',
     avatar: avatar4,
     billing: 'Manual - Paypal',
-  },
-  {
+    },
+    {
     id: 35,
     username: 'smacgilfoyley',
     fullName: 'Stephen MacGilfoyle',
@@ -489,8 +489,8 @@
     status: 'pending',
     avatar: '',
     billing: 'Manual - Paypal',
-  },
-  {
+    },
+    {
     id: 36,
     username: 'brosebothamz',
     fullName: 'Bradan Rosebotham',
@@ -503,8 +503,8 @@
     status: 'inactive',
     avatar: '',
     billing: 'Manual - Paypal',
-  },
-  {
+    },
+    {
     id: 37,
     username: 'shebblethwaite10',
     fullName: 'Skip Hebblethwaite',
@@ -517,8 +517,8 @@
     status: 'inactive',
     avatar: avatar1,
     billing: 'Manual - Paypal',
-  },
-  {
+    },
+    {
     id: 38,
     username: 'mpiccard11',
     fullName: 'Moritz Piccard',
@@ -531,8 +531,8 @@
     status: 'inactive',
     avatar: avatar1,
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 39,
     username: 'twidmore12',
     fullName: 'Tyne Widmore',
@@ -545,8 +545,8 @@
     status: 'pending',
     avatar: '',
     billing: 'Manual - Credit Card',
-  },
-  {
+    },
+    {
     id: 40,
     username: 'fdesporte13',
     fullName: 'Florenza Desporte',
@@ -559,8 +559,8 @@
     status: 'active',
     avatar: avatar6,
     billing: 'Manual - Credit Card',
-  },
-  {
+    },
+    {
     id: 41,
     username: 'ebaldetti14',
     fullName: 'Edwina Baldetti',
@@ -573,8 +573,8 @@
     status: 'pending',
     avatar: '',
     billing: 'Manual - Cash',
-  },
-  {
+    },
+    {
     id: 42,
     username: 'brossiter15',
     fullName: 'Benedetto Rossiter',
@@ -587,8 +587,8 @@
     status: 'inactive',
     avatar: '',
     billing: 'Manual - Credit Card',
-  },
-  {
+    },
+    {
     id: 43,
     username: 'mmcnirlan16',
     fullName: 'Micaela McNirlan',
@@ -601,8 +601,8 @@
     status: 'inactive',
     avatar: '',
     billing: 'Manual - Credit Card',
-  },
-  {
+    },
+    {
     id: 44,
     username: 'vkoschek17',
     fullName: 'Vladamir Koschek',
@@ -615,8 +615,8 @@
     status: 'active',
     avatar: '',
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 45,
     username: 'cperot18',
     fullName: 'Corrie Perot',
@@ -629,8 +629,8 @@
     status: 'pending',
     avatar: avatar3,
     billing: 'Manual - Paypal',
-  },
-  {
+    },
+    {
     id: 46,
     username: 'soffner19',
     fullName: 'Saunder Offner',
@@ -643,8 +643,8 @@
     status: 'pending',
     avatar: '',
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 47,
     username: 'kcourtliff1a',
     fullName: 'Karena Courtliff',
@@ -657,8 +657,8 @@
     status: 'active',
     avatar: avatar1,
     billing: 'Manual - Credit Card',
-  },
-  {
+    },
+    {
     id: 48,
     username: 'owind1b',
     fullName: 'Onfre Wind',
@@ -671,8 +671,8 @@
     status: 'pending',
     avatar: '',
     billing: 'Manual - Credit Card',
-  },
-  {
+    },
+    {
     id: 49,
     username: 'pdurber1c',
     fullName: 'Paulie Durber',
@@ -685,8 +685,8 @@
     status: 'inactive',
     avatar: '',
     billing: 'Auto Debit',
-  },
-  {
+    },
+    {
     id: 50,
     username: 'bkrabbe1d',
     fullName: 'Beverlie Krabbe',
@@ -699,6 +699,6 @@
     status: 'active',
     avatar: avatar2,
     billing: 'Manual - Credit Card',
-  },
-]
+    },
+  ]
 }
