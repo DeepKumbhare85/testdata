@@ -5,8 +5,8 @@ jobs:
   convert-json-to-string:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - run: |
-          mkdir JsonFiles
-          cp db.json JsonFiles/db.json
-          rm db.json
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Copy File
+        run: cp path/to/source/file path/to/destination/file
