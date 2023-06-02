@@ -15,8 +15,8 @@ jobs:
         uses: actions/checkout@v3
 
       - run: pwd
-      - run: echo ${{ env.GITHUB_WORKSPACE }}
+      - run: echo $GITHUB_WORKSPACE
       - run: touch ./db-example.json
       - run: touch db-example2.json
-      - run: touch ${{ env.GITHUB_WORKSPACE }}/db-example3.json
+      - run: touch $GITHUB_WORKSPACE/db-example3.json
       - run: ls -la
