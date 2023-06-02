@@ -1,0 +1,17 @@
+name: Create File Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  createFile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Create File
+        run: touch path/to/new/file
