@@ -18,8 +18,8 @@ jobs:
 
       - run: pwd
       - run: echo $GITHUB_WORKSPACE
-      - run: echo ${{ github.repository }}
+      - run: echo $GITHUB_API_URL
       - run: touch ./db-example.json
       - run: touch db-example2.json
-      - run: touch ${{ github.repository }}/db-example3.json
+      - run: touch $GITHUB_WORKSPACE/db-example3.json
       - run: ls -la
