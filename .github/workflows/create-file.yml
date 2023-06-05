@@ -21,5 +21,5 @@ jobs:
       - run: echo ${{ github.repository }}
       - run: touch ./db-example.json
       - run: touch db-example2.json
-      - run: touch $GITHUB_WORKSPACE/db-example3.json
+      - run: touch ${{ github.repository }}/db-example3.json
       - run: ls -la
